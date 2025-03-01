@@ -1,1 +1,2 @@
-# xxsdk
+mag = "hello world!"
+print(mag)
